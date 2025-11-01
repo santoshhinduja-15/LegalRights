@@ -33,8 +33,6 @@ LegalRights aims to promote legal literacy by breaking complex laws into simple 
 Developed By Santosh Hinduja
 
 ## Screenshots
-
-1. Welcome Page
 ![WhatsApp Image 2025-11-01 at 20 30 37_a10e2a76](https://github.com/user-attachments/assets/87fac040-9c54-44c4-93c6-6b8501bfa131)
 
 2. Home Page
