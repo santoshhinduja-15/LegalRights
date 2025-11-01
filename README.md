@@ -34,3 +34,28 @@ Developed By Santosh Hinduja
 
 ## Screenshots
 1. Welcome Page
+![WhatsApp Image 2025-11-01 at 20 30 37_a10e2a76](https://github.com/user-attachments/assets/87fac040-9c54-44c4-93c6-6b8501bfa131)
+
+2. Home Page
+![WhatsApp Image 2025-11-01 at 20 31 45_93c8b65f](https://github.com/user-attachments/assets/4afbe949-1f00-466b-83e9-56d174f4e4d0)
+
+3. Categories Page
+![WhatsApp Image 2025-11-01 at 20 32 46_16de637b](https://github.com/user-attachments/assets/6b07d27b-6745-41fd-9ae5-e806ea05ae12)
+
+4. Consumer Laws Page
+![WhatsApp Image 2025-11-01 at 20 34 29_e70160eb](https://github.com/user-attachments/assets/7a95fadb-c0e1-4b40-9176-943b13829fbd)
+
+5. Property Laws Page
+![WhatsApp Image 2025-11-01 at 20 35 38_610f38bd](https://github.com/user-attachments/assets/75da4114-e7df-428e-b4f6-63222612298c)
+
+6. Women's Safety Laws
+![WhatsApp Image 2025-11-01 at 20 37 10_a87108a5](https://github.com/user-attachments/assets/1d42d8d4-736e-42e1-9ef0-fea204a71c87)
+
+7. Cyber Laws Page
+![WhatsApp Image 2025-11-01 at 20 38 40_d2cf8b25](https://github.com/user-attachments/assets/ca5babb7-0710-4f15-a642-9bd5c7bc7e51)
+
+8. Chatbot Page
+![WhatsApp Image 2025-11-01 at 20 40 15_aa482363](https://github.com/user-attachments/assets/f56cad6d-e4e7-4999-bdbf-a9df587f35f5)
+
+9. About Us Page
+![WhatsApp Image 2025-11-01 at 20 41 30_d3d02f92](https://github.com/user-attachments/assets/4ccb6b5e-4572-46a4-a6c4-5e1ed721891b)
